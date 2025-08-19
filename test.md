@@ -1,7 +1,6 @@
-[GitHub on Youtube](https://www.youtube.com/results?search_query=github+table)
+# Resources
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-
+## 1. MISC
 
 | Type  | Name/Link | Watched  | Comment |
 | ------------- | ------------- | ------------- | ------------- |
